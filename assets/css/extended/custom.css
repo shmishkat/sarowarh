@@ -1,0 +1,12 @@
+.pronunciation {
+	font-style: italic;
+	margin: -0.5em 0 0.75em 0;
+}
+
+.logo {
+	flex: 1;
+}
+
+.logo-switches {
+	margin-inline-start: auto;
+}
