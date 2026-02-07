@@ -4,7 +4,7 @@ baseURL: "https://sarowarh.com/"
 title: Sarowar Hossain
 copyright: "© 2026 Sarowar Hossain"
 theme: PaperMod
-googleAnalytics: G-4QREZ7HSTP
+googleAnalytics: G-7TPY9JTLT6
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -105,7 +105,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: G-4QREZ7HSTP
+      SiteVerificationTag: G-7TPY9JTLT6
 
   assets:
     disableHLJS: true
