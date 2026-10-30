@@ -76,10 +76,8 @@ params:
     # imageHeight: 120
     subtitle: |
       Built for messages, not pages.
-      If you're here, the email worked. 
+      If you're here, the email worked. 👀
       
-      There's not much to see here,
-      the real action happens in the inbox. 👀
     buttons:
       - name: s[at]sarowarh[dot]com
         url: "mailto:s@sarowarh.com"
